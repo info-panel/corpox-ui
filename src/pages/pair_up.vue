@@ -62,7 +62,7 @@
               <q-img
                 src="/statics/calendar.jpg"
                 class="icon-img"
-              ></q-img> Willing a trip: <strong>{{willingToTripLiteral}}</strong>
+              ></q-img> Willing to travel: <strong>{{willingToTripLiteral}}</strong>
             </div>
 
             <div class="col-xs-12 col-sm-3 col-md-3">
